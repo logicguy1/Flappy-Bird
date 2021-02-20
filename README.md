@@ -1,2 +1,4 @@
 # Flappy-Bird
-A flappy bird game for when you're bored
+<p align="center">
+<img src="example.png" />
+</p>
